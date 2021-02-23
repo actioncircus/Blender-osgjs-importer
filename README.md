@@ -15,6 +15,6 @@ Import OSGJS files into Blender
 
 5. Right-click on the Python script and click "Execute Script" or press Alt+P if you prefer. In the file chooser, navigate to the folder where the .osgjs.gz file is located and click "import".
 
-5. Don't touch anything, just wait; it may take up to a couple minutes for anything to appear. Export the file as OBJ or STL or whatever you prefer and import it into the latest version of Blender or CAD software of your choice!
+6. Don't touch anything, just wait; it may take up to a couple minutes for anything to appear. Export the file as OBJ or STL or whatever you prefer and import it into the latest version of Blender or CAD software of your choice!
 
 	Disclaimer: this is not my code. I found this script here: https://nulledbb.com/thread-Guide-Ripping-models-from-Sketchfab
