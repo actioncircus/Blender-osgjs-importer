@@ -6,10 +6,10 @@ Import OSGJS files into Blender
 2. Download Blender 2.49 and extract the zip into a folder. https://download.blender.org/release/Blender2.49/
 
 3. Set the PythonPath Environment Variable to the install location of Python 2.6.6 (on Windows, this is C:\Python26 by default)
-	a. Search for "Environment Variables" in Windows, or "edit environment variables for your account" without quotes.
-	b. Click: New...
-	c. For Variable name, input: PythonPath
-	d. For Variable value, input: C:\Python26; C:\Python26\DLLs; C:\Python26\Lib; C:\Python26\Lib\lib-tk
+3. Search for "Environment Variables" in Windows, or "edit environment variables for your account" without quotes.
+3. Click: New...
+3. For Variable name, input: PythonPath
+3. For Variable value, input: C:\Python26; C:\Python26\DLLs; C:\Python26\Lib; C:\Python26\Lib\lib-tk
 
 4. Open the blender folder and drag "Blender249.blend" on top of "blender.exe". (You can also keep this file in the Blender folder to save space). This will open the script in blender. When blender opens, there is a command prompt window and the Blender program. Ensure that the command prompt window says "Checking for installed Python... got it!" If it doesn't find Python, your PythonPath Windows Environment Variable is not set correctly.
 
