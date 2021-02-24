@@ -1,0 +1,638 @@
+
+header:None { 0    
+    header:"Generator":"OpenSceneGraph3.5.6","Version":9,"osg.Node": { 58        
+        header:"Children": [ 70            
+            header:None { 71                
+                header:"osg.Node": { 83                    
+                    header:"UniqueID":0,"Name":"7fed364ba1064fc995b509a6ff6e29f4.obj.cleaner.materialmerger.gles","Children": [ 182                        
+                        header:None { 183                            
+                            header:"osg.Node": { 195                                
+                                header:"UniqueID":2,"Name":"Object006:Object006","Children": [ 249                                    
+                                    header:None { 250                                        
+                                        header:"osg.Geometry": { 266                                            
+                                            header:"UniqueID":3,"PrimitiveSetList": [ 299                                                
+                                                header:None { 300                                                    
+                                                    header:"DrawElementsUInt": { 320                                                        
+                                                        header:"UniqueID":12,"Indices": { 345                                                            
+                                                            header:"UniqueID":13,"Array": { 368                                                                
+                                                                header:"Uint32Array": { 383                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":2984,"Offset":0,"Encoding":"varint"
+                                                                     } 453                                                                
+                                                                data:None
+                                                                 } 454                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 498                                                        
+                                                        data:,"Mode":"TRIANGLE_STRIP"
+                                                         } 523                                                    
+                                                    data:None
+                                                     } 524                                                
+                                                header:, { 526                                                    
+                                                    header:"DrawElementsUShort": { 548                                                        
+                                                        header:"UniqueID":14,"Indices": { 573                                                            
+                                                            header:"UniqueID":15,"Array": { 596                                                                
+                                                                header:"Uint16Array": { 611                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":243,"Offset":3892,"Encoding":"varint"
+                                                                     } 683                                                                
+                                                                data:None
+                                                                 } 684                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 728                                                        
+                                                        data:,"Mode":"TRIANGLES"
+                                                         } 748                                                    
+                                                    data:None
+                                                     } 749                                                
+                                                data:None                                                 ] 750                                            
+                                            header:,"StateSet": { 763                                                
+                                                header:"osg.StateSet": { 779                                                    
+                                                    header:"UniqueID":4,"Name":"09___Default","AttributeList": [ 831                                                        
+                                                        header:None { 832                                                            
+                                                            header:"osg.Material": { 848                                                                
+                                                                header:"UniqueID":6,"Ambient": [ 872                                                                    
+                                                                    data:0.2,0.2,0.2,1
+                                                                     ] 886                                                                
+                                                                header:,"Diffuse": [ 898                                                                    
+                                                                    data:0.8,0.8,0.8,1
+                                                                     ] 912                                                                
+                                                                header:,"Emission": [ 925                                                                    
+                                                                    data:0,0,0,1
+                                                                     ] 933                                                                
+                                                                header:,"Shininess":0,"Specular": [ 960                                                                    
+                                                                    data:0,0,0,1
+                                                                     ] 968                                                                
+                                                                data:None
+                                                                 } 969                                                            
+                                                            data:None
+                                                             } 970                                                        
+                                                        data:None                                                         ] 971                                                    
+                                                    header:,"UserDataContainer": { 993                                                        
+                                                        header:"UniqueID":5,"Values": [ 1016                                                            
+                                                            header:None { 1017                                                                
+                                                                data:"Name":"UniqueID","Value":"1"
+                                                                 } 1047                                                            
+                                                            data:None                                                             ] 1048                                                        
+                                                        data:None
+                                                         } 1049                                                    
+                                                    data:None
+                                                     } 1050                                                
+                                                data:None
+                                                 } 1051                                            
+                                            header:,"UserDataContainer": { 1073                                                
+                                                header:"UniqueID":7,"Values": [ 1096                                                    
+                                                    header:None { 1097                                                        
+                                                        data:"Name":"attributes","Value":"55"
+                                                         } 1130                                                    
+                                                    header:, { 1132                                                        
+                                                        data:"Name":"vertex_bits","Value":"12"
+                                                         } 1166                                                    
+                                                    header:, { 1168                                                        
+                                                        data:"Name":"vertex_mode","Value":"3"
+                                                         } 1201                                                    
+                                                    header:, { 1203                                                        
+                                                        data:"Name":"uv_0_bits","Value":"14"
+                                                         } 1235                                                    
+                                                    header:, { 1237                                                        
+                                                        data:"Name":"uv_0_mode","Value":"3"
+                                                         } 1268                                                    
+                                                    header:, { 1270                                                        
+                                                        data:"Name":"epsilon","Value":"0.25"
+                                                         } 1302                                                    
+                                                    header:, { 1304                                                        
+                                                        data:"Name":"nphi","Value":"720"
+                                                         } 1332                                                    
+                                                    header:, { 1334                                                        
+                                                        data:"Name":"triangle_mode","Value":"7"
+                                                         } 1369                                                    
+                                                    header:, { 1371                                                        
+                                                        data:"Name":"vtx_bbl_x","Value":"-88"
+                                                         } 1404                                                    
+                                                    header:, { 1406                                                        
+                                                        data:"Name":"vtx_bbl_y","Value":"-288"
+                                                         } 1440                                                    
+                                                    header:, { 1442                                                        
+                                                        data:"Name":"vtx_bbl_z","Value":"-2"
+                                                         } 1474                                                    
+                                                    header:, { 1476                                                        
+                                                        data:"Name":"vtx_h_x","Value":"0.0859795"
+                                                         } 1513                                                    
+                                                    header:, { 1515                                                        
+                                                        data:"Name":"vtx_h_y","Value":"0.309233"
+                                                         } 1551                                                    
+                                                    header:, { 1553                                                        
+                                                        data:"Name":"vtx_h_z","Value":"0.208598"
+                                                         } 1589                                                    
+                                                    header:, { 1591                                                        
+                                                        data:"Name":"uv_0_bbl_x","Value":"0.0105"
+                                                         } 1628                                                    
+                                                    header:, { 1630                                                        
+                                                        data:"Name":"uv_0_bbl_y","Value":"0.0102"
+                                                         } 1667                                                    
+                                                    header:, { 1669                                                        
+                                                        data:"Name":"uv_0_h_x","Value":"0.000119399"
+                                                         } 1709                                                    
+                                                    header:, { 1711                                                        
+                                                        data:"Name":"uv_0_h_y","Value":"0.000119167"
+                                                         } 1751                                                    
+                                                    data:None                                                     ] 1752                                                
+                                                data:None
+                                                 } 1753                                            
+                                            header:,"VertexAttributeList": { 1777                                                
+                                                header:"Normal": { 1787                                                    
+                                                    header:"UniqueID":9,"Array": { 1809                                                        
+                                                        header:"Uint32Array": { 1824                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":4240,"Encoding":"varint"
+                                                             } 1897                                                        
+                                                        data:None
+                                                         } 1898                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 1934                                                
+                                                header:,"Tangent": { 1946                                                    
+                                                    header:"UniqueID":11,"Array": { 1969                                                        
+                                                        header:"Uint32Array": { 1984                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":10836,"Encoding":"varint"
+                                                             } 2058                                                        
+                                                        data:None
+                                                         } 2059                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 2095                                                
+                                                header:,"TexCoord0": { 2109                                                    
+                                                    header:"UniqueID":10,"Array": { 2132                                                        
+                                                        header:"Int32Array": { 2146                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":17704,"Encoding":"varint"
+                                                             } 2220                                                        
+                                                        data:None
+                                                         } 2221                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 2257                                                
+                                                header:,"Vertex": { 2268                                                    
+                                                    header:"UniqueID":8,"Array": { 2290                                                        
+                                                        header:"Int32Array": { 2304                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":23036,"Encoding":"varint"
+                                                             } 2378                                                        
+                                                        data:None
+                                                         } 2379                                                    
+                                                    data:,"ItemSize":3,"Type":"ARRAY_BUFFER"
+                                                     } 2415                                                
+                                                data:None
+                                                 } 2416                                            
+                                            data:None
+                                             } 2417                                        
+                                        data:None
+                                         } 2418                                    
+                                    header:, { 2420                                        
+                                        header:"osg.Geometry": { 2436                                            
+                                            header:"UniqueID":16,"PrimitiveSetList": [ 2470                                                
+                                                header:None { 2471                                                    
+                                                    header:"DrawElementsUInt": { 2491                                                        
+                                                        header:"UniqueID":22,"Indices": { 2516                                                            
+                                                            header:"UniqueID":23,"Array": { 2539                                                                
+                                                                header:"Uint32Array": { 2554                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":2984,"Offset":29212,"Encoding":"varint"
+                                                                     } 2628                                                                
+                                                                data:None
+                                                                 } 2629                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 2673                                                        
+                                                        data:,"Mode":"TRIANGLE_STRIP"
+                                                         } 2698                                                    
+                                                    data:None
+                                                     } 2699                                                
+                                                header:, { 2701                                                    
+                                                    header:"DrawElementsUShort": { 2723                                                        
+                                                        header:"UniqueID":24,"Indices": { 2748                                                            
+                                                            header:"UniqueID":25,"Array": { 2771                                                                
+                                                                header:"Uint16Array": { 2786                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":243,"Offset":33104,"Encoding":"varint"
+                                                                     } 2859                                                                
+                                                                data:None
+                                                                 } 2860                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 2904                                                        
+                                                        data:,"Mode":"TRIANGLES"
+                                                         } 2924                                                    
+                                                    data:None
+                                                     } 2925                                                
+                                                data:None                                                 ] 2926                                            
+                                            header:,"StateSet": { 2939                                                
+                                                header:"osg.StateSet": { 2955                                                    
+                                                    data:"UniqueID":4
+                                                     } 2968                                                
+                                                data:None
+                                                 } 2969                                            
+                                            header:,"UserDataContainer": { 2991                                                
+                                                header:"UniqueID":17,"Values": [ 3015                                                    
+                                                    header:None { 3016                                                        
+                                                        data:"Name":"attributes","Value":"55"
+                                                         } 3049                                                    
+                                                    header:, { 3051                                                        
+                                                        data:"Name":"vertex_bits","Value":"12"
+                                                         } 3085                                                    
+                                                    header:, { 3087                                                        
+                                                        data:"Name":"vertex_mode","Value":"3"
+                                                         } 3120                                                    
+                                                    header:, { 3122                                                        
+                                                        data:"Name":"uv_0_bits","Value":"14"
+                                                         } 3154                                                    
+                                                    header:, { 3156                                                        
+                                                        data:"Name":"uv_0_mode","Value":"3"
+                                                         } 3187                                                    
+                                                    header:, { 3189                                                        
+                                                        data:"Name":"epsilon","Value":"0.25"
+                                                         } 3221                                                    
+                                                    header:, { 3223                                                        
+                                                        data:"Name":"nphi","Value":"720"
+                                                         } 3251                                                    
+                                                    header:, { 3253                                                        
+                                                        data:"Name":"triangle_mode","Value":"7"
+                                                         } 3288                                                    
+                                                    header:, { 3290                                                        
+                                                        data:"Name":"vtx_bbl_x","Value":"196.281"
+                                                         } 3327                                                    
+                                                    header:, { 3329                                                        
+                                                        data:"Name":"vtx_bbl_y","Value":"-288"
+                                                         } 3363                                                    
+                                                    header:, { 3365                                                        
+                                                        data:"Name":"vtx_bbl_z","Value":"-2"
+                                                         } 3397                                                    
+                                                    header:, { 3399                                                        
+                                                        data:"Name":"vtx_h_x","Value":"0.0859795"
+                                                         } 3436                                                    
+                                                    header:, { 3438                                                        
+                                                        data:"Name":"vtx_h_y","Value":"0.309233"
+                                                         } 3474                                                    
+                                                    header:, { 3476                                                        
+                                                        data:"Name":"vtx_h_z","Value":"0.208598"
+                                                         } 3512                                                    
+                                                    header:, { 3514                                                        
+                                                        data:"Name":"uv_0_bbl_x","Value":"0.0105"
+                                                         } 3551                                                    
+                                                    header:, { 3553                                                        
+                                                        data:"Name":"uv_0_bbl_y","Value":"0.0102"
+                                                         } 3590                                                    
+                                                    header:, { 3592                                                        
+                                                        data:"Name":"uv_0_h_x","Value":"0.000119399"
+                                                         } 3632                                                    
+                                                    header:, { 3634                                                        
+                                                        data:"Name":"uv_0_h_y","Value":"0.000119167"
+                                                         } 3674                                                    
+                                                    data:None                                                     ] 3675                                                
+                                                data:None
+                                                 } 3676                                            
+                                            header:,"VertexAttributeList": { 3700                                                
+                                                header:"Normal": { 3710                                                    
+                                                    header:"UniqueID":19,"Array": { 3733                                                        
+                                                        header:"Uint32Array": { 3748                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":33452,"Encoding":"varint"
+                                                             } 3822                                                        
+                                                        data:None
+                                                         } 3823                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 3859                                                
+                                                header:,"Tangent": { 3871                                                    
+                                                    header:"UniqueID":21,"Array": { 3894                                                        
+                                                        header:"Uint32Array": { 3909                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":40048,"Encoding":"varint"
+                                                             } 3983                                                        
+                                                        data:None
+                                                         } 3984                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 4020                                                
+                                                header:,"TexCoord0": { 4034                                                    
+                                                    header:"UniqueID":20,"Array": { 4057                                                        
+                                                        header:"Int32Array": { 4071                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":46916,"Encoding":"varint"
+                                                             } 4145                                                        
+                                                        data:None
+                                                         } 4146                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 4182                                                
+                                                header:,"Vertex": { 4193                                                    
+                                                    header:"UniqueID":18,"Array": { 4216                                                        
+                                                        header:"Int32Array": { 4230                                                            
+                                                            data:"File":"model_file.bin.gz","Size":1774,"Offset":52248,"Encoding":"varint"
+                                                             } 4304                                                        
+                                                        data:None
+                                                         } 4305                                                    
+                                                    data:,"ItemSize":3,"Type":"ARRAY_BUFFER"
+                                                     } 4341                                                
+                                                data:None
+                                                 } 4342                                            
+                                            data:None
+                                             } 4343                                        
+                                        data:None
+                                         } 4344                                    
+                                    header:, { 4346                                        
+                                        header:"osg.Geometry": { 4362                                            
+                                            header:"UniqueID":26,"PrimitiveSetList": [ 4396                                                
+                                                header:None { 4397                                                    
+                                                    header:"DrawElementsUInt": { 4417                                                        
+                                                        header:"UniqueID":35,"Indices": { 4442                                                            
+                                                            header:"UniqueID":36,"Array": { 4465                                                                
+                                                                header:"Uint32Array": { 4480                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":1282,"Offset":58424,"Encoding":"varint"
+                                                                     } 4554                                                                
+                                                                data:None
+                                                                 } 4555                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 4599                                                        
+                                                        data:,"Mode":"TRIANGLE_STRIP"
+                                                         } 4624                                                    
+                                                    data:None
+                                                     } 4625                                                
+                                                header:, { 4627                                                    
+                                                    header:"DrawElementsUShort": { 4649                                                        
+                                                        header:"UniqueID":37,"Indices": { 4674                                                            
+                                                            header:"UniqueID":38,"Array": { 4697                                                                
+                                                                header:"Uint16Array": { 4712                                                                    
+                                                                    data:"File":"model_file.bin.gz","Size":162,"Offset":60036,"Encoding":"varint"
+                                                                     } 4785                                                                
+                                                                data:None
+                                                                 } 4786                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 4830                                                        
+                                                        data:,"Mode":"TRIANGLES"
+                                                         } 4850                                                    
+                                                    data:None
+                                                     } 4851                                                
+                                                data:None                                                 ] 4852                                            
+                                            header:,"StateSet": { 4865                                                
+                                                header:"osg.StateSet": { 4881                                                    
+                                                    header:"UniqueID":27,"Name":"10___Default","AttributeList": [ 4934                                                        
+                                                        header:None { 4935                                                            
+                                                            header:"osg.Material": { 4951                                                                
+                                                                header:"UniqueID":29,"Ambient": [ 4976                                                                    
+                                                                    data:0.2,0.2,0.2,1
+                                                                     ] 4990                                                                
+                                                                header:,"Diffuse": [ 5002                                                                    
+                                                                    data:0.8,0.8,0.8,1
+                                                                     ] 5016                                                                
+                                                                header:,"Emission": [ 5029                                                                    
+                                                                    data:0,0,0,1
+                                                                     ] 5037                                                                
+                                                                header:,"Shininess":0,"Specular": [ 5064                                                                    
+                                                                    data:0,0,0,1
+                                                                     ] 5072                                                                
+                                                                data:None
+                                                                 } 5073                                                            
+                                                            data:None
+                                                             } 5074                                                        
+                                                        data:None                                                         ] 5075                                                    
+                                                    header:,"UserDataContainer": { 5097                                                        
+                                                        header:"UniqueID":28,"Values": [ 5121                                                            
+                                                            header:None { 5122                                                                
+                                                                data:"Name":"UniqueID","Value":"2"
+                                                                 } 5152                                                            
+                                                            data:None                                                             ] 5153                                                        
+                                                        data:None
+                                                         } 5154                                                    
+                                                    data:None
+                                                     } 5155                                                
+                                                data:None
+                                                 } 5156                                            
+                                            header:,"UserDataContainer": { 5178                                                
+                                                header:"UniqueID":30,"Values": [ 5202                                                    
+                                                    header:None { 5203                                                        
+                                                        data:"Name":"attributes","Value":"55"
+                                                         } 5236                                                    
+                                                    header:, { 5238                                                        
+                                                        data:"Name":"vertex_bits","Value":"12"
+                                                         } 5272                                                    
+                                                    header:, { 5274                                                        
+                                                        data:"Name":"vertex_mode","Value":"3"
+                                                         } 5307                                                    
+                                                    header:, { 5309                                                        
+                                                        data:"Name":"uv_0_bits","Value":"14"
+                                                         } 5341                                                    
+                                                    header:, { 5343                                                        
+                                                        data:"Name":"uv_0_mode","Value":"3"
+                                                         } 5374                                                    
+                                                    header:, { 5376                                                        
+                                                        data:"Name":"epsilon","Value":"0.25"
+                                                         } 5408                                                    
+                                                    header:, { 5410                                                        
+                                                        data:"Name":"nphi","Value":"720"
+                                                         } 5438                                                    
+                                                    header:, { 5440                                                        
+                                                        data:"Name":"triangle_mode","Value":"7"
+                                                         } 5475                                                    
+                                                    header:, { 5477                                                        
+                                                        data:"Name":"vtx_bbl_x","Value":"-100"
+                                                         } 5511                                                    
+                                                    header:, { 5513                                                        
+                                                        data:"Name":"vtx_bbl_y","Value":"-270"
+                                                         } 5547                                                    
+                                                    header:, { 5549                                                        
+                                                        data:"Name":"vtx_bbl_z","Value":"122"
+                                                         } 5582                                                    
+                                                    header:, { 5584                                                        
+                                                        data:"Name":"vtx_h_x","Value":"0.097704"
+                                                         } 5620                                                    
+                                                    header:, { 5622                                                        
+                                                        data:"Name":"vtx_h_y","Value":"0.152418"
+                                                         } 5658                                                    
+                                                    header:, { 5660                                                        
+                                                        data:"Name":"vtx_h_z","Value":"0.195408"
+                                                         } 5696                                                    
+                                                    header:, { 5698                                                        
+                                                        data:"Name":"uv_0_bbl_x","Value":"0.0138"
+                                                         } 5735                                                    
+                                                    header:, { 5737                                                        
+                                                        data:"Name":"uv_0_bbl_y","Value":"0.0168"
+                                                         } 5774                                                    
+                                                    header:, { 5776                                                        
+                                                        data:"Name":"uv_0_h_x","Value":"0.000119082"
+                                                         } 5816                                                    
+                                                    header:, { 5818                                                        
+                                                        data:"Name":"uv_0_h_y","Value":"0.000118703"
+                                                         } 5858                                                    
+                                                    data:None                                                     ] 5859                                                
+                                                data:None
+                                                 } 5860                                            
+                                            header:,"VertexAttributeList": { 5884                                                
+                                                header:"Normal": { 5894                                                    
+                                                    header:"UniqueID":32,"Array": { 5917                                                        
+                                                        header:"Uint32Array": { 5932                                                            
+                                                            data:"File":"model_file.bin.gz","Size":931,"Offset":60252,"Encoding":"varint"
+                                                             } 6005                                                        
+                                                        data:None
+                                                         } 6006                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 6042                                                
+                                                header:,"Tangent": { 6054                                                    
+                                                    header:"UniqueID":34,"Array": { 6077                                                        
+                                                        header:"Uint32Array": { 6092                                                            
+                                                            data:"File":"model_file.bin.gz","Size":931,"Offset":63712,"Encoding":"varint"
+                                                             } 6165                                                        
+                                                        data:None
+                                                         } 6166                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 6202                                                
+                                                header:,"TexCoord0": { 6216                                                    
+                                                    header:"UniqueID":33,"Array": { 6239                                                        
+                                                        header:"Int32Array": { 6253                                                            
+                                                            data:"File":"model_file.bin.gz","Size":931,"Offset":67120,"Encoding":"varint"
+                                                             } 6326                                                        
+                                                        data:None
+                                                         } 6327                                                    
+                                                    data:,"ItemSize":2,"Type":"ARRAY_BUFFER"
+                                                     } 6363                                                
+                                                header:,"Vertex": { 6374                                                    
+                                                    header:"UniqueID":31,"Array": { 6397                                                        
+                                                        header:"Int32Array": { 6411                                                            
+                                                            data:"File":"model_file.bin.gz","Size":931,"Offset":70164,"Encoding":"varint"
+                                                             } 6484                                                        
+                                                        data:None
+                                                         } 6485                                                    
+                                                    data:,"ItemSize":3,"Type":"ARRAY_BUFFER"
+                                                     } 6521                                                
+                                                data:None
+                                                 } 6522                                            
+                                            data:None
+                                             } 6523                                        
+                                        data:None
+                                         } 6524                                    
+                                    header:, { 6526                                        
+                                        header:"osg.Geometry": { 6542                                            
+                                            header:"UniqueID":39,"PrimitiveSetList": [ 6576                                                
+                                                header:None { 6577                                                    
+                                                    header:"DrawElementsUShort": { 6599                                                        
+                                                        header:"UniqueID":41,"Indices": { 6624                                                            
+                                                            header:"UniqueID":42,"Array": { 6647                                                                
+                                                                header:"Uint16Array": { 6662                                                                    
+                                                                    data:"File":"model_file_wireframe.bin.gz","Size":6844,"Offset":0,"Encoding":"varint"
+                                                                     } 6742                                                                
+                                                                data:None
+                                                                 } 6743                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 6787                                                        
+                                                        data:,"Mode":"LINES"
+                                                         } 6803                                                    
+                                                    data:None
+                                                     } 6804                                                
+                                                data:None                                                 ] 6805                                            
+                                            header:,"UserDataContainer": { 6827                                                
+                                                header:"UniqueID":40,"Values": [ 6851                                                    
+                                                    header:None { 6852                                                        
+                                                        data:"Name":"wireframe","Value":"1"
+                                                         } 6883                                                    
+                                                    header:, { 6885                                                        
+                                                        data:"Name":"attributes","Value":"1"
+                                                         } 6917                                                    
+                                                    data:None                                                     ] 6918                                                
+                                                data:None
+                                                 } 6919                                            
+                                            header:,"VertexAttributeList": { 6943                                                
+                                                header:"Vertex": { 6953                                                    
+                                                    data:"UniqueID":8
+                                                     } 6966                                                
+                                                data:None
+                                                 } 6967                                            
+                                            data:None
+                                             } 6968                                        
+                                        data:None
+                                         } 6969                                    
+                                    header:, { 6971                                        
+                                        header:"osg.Geometry": { 6987                                            
+                                            header:"UniqueID":43,"PrimitiveSetList": [ 7021                                                
+                                                header:None { 7022                                                    
+                                                    header:"DrawElementsUShort": { 7044                                                        
+                                                        header:"UniqueID":45,"Indices": { 7069                                                            
+                                                            header:"UniqueID":46,"Array": { 7092                                                                
+                                                                header:"Uint16Array": { 7107                                                                    
+                                                                    data:"File":"model_file_wireframe.bin.gz","Size":6844,"Offset":13180,"Encoding":"varint"
+                                                                     } 7191                                                                
+                                                                data:None
+                                                                 } 7192                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 7236                                                        
+                                                        data:,"Mode":"LINES"
+                                                         } 7252                                                    
+                                                    data:None
+                                                     } 7253                                                
+                                                data:None                                                 ] 7254                                            
+                                            header:,"UserDataContainer": { 7276                                                
+                                                header:"UniqueID":44,"Values": [ 7300                                                    
+                                                    header:None { 7301                                                        
+                                                        data:"Name":"wireframe","Value":"1"
+                                                         } 7332                                                    
+                                                    header:, { 7334                                                        
+                                                        data:"Name":"attributes","Value":"1"
+                                                         } 7366                                                    
+                                                    data:None                                                     ] 7367                                                
+                                                data:None
+                                                 } 7368                                            
+                                            header:,"VertexAttributeList": { 7392                                                
+                                                header:"Vertex": { 7402                                                    
+                                                    data:"UniqueID":18
+                                                     } 7416                                                
+                                                data:None
+                                                 } 7417                                            
+                                            data:None
+                                             } 7418                                        
+                                        data:None
+                                         } 7419                                    
+                                    header:, { 7421                                        
+                                        header:"osg.Geometry": { 7437                                            
+                                            header:"UniqueID":47,"PrimitiveSetList": [ 7471                                                
+                                                header:None { 7472                                                    
+                                                    header:"DrawElementsUShort": { 7494                                                        
+                                                        header:"UniqueID":49,"Indices": { 7519                                                            
+                                                            header:"UniqueID":50,"Array": { 7542                                                                
+                                                                header:"Uint16Array": { 7557                                                                    
+                                                                    data:"File":"model_file_wireframe.bin.gz","Size":3324,"Offset":26360,"Encoding":"varint"
+                                                                     } 7641                                                                
+                                                                data:None
+                                                                 } 7642                                                            
+                                                            data:,"ItemSize":1,"Type":"ELEMENT_ARRAY_BUFFER"
+                                                             } 7686                                                        
+                                                        data:,"Mode":"LINES"
+                                                         } 7702                                                    
+                                                    data:None
+                                                     } 7703                                                
+                                                data:None                                                 ] 7704                                            
+                                            header:,"UserDataContainer": { 7726                                                
+                                                header:"UniqueID":48,"Values": [ 7750                                                    
+                                                    header:None { 7751                                                        
+                                                        data:"Name":"wireframe","Value":"1"
+                                                         } 7782                                                    
+                                                    header:, { 7784                                                        
+                                                        data:"Name":"attributes","Value":"1"
+                                                         } 7816                                                    
+                                                    data:None                                                     ] 7817                                                
+                                                data:None
+                                                 } 7818                                            
+                                            header:,"VertexAttributeList": { 7842                                                
+                                                header:"Vertex": { 7852                                                    
+                                                    data:"UniqueID":31
+                                                     } 7866                                                
+                                                data:None
+                                                 } 7867                                            
+                                            data:None
+                                             } 7868                                        
+                                        data:None
+                                         } 7869                                    
+                                    data:None                                     ] 7870                                
+                                data:None
+                                 } 7871                            
+                            data:None
+                             } 7872                        
+                        data:None                         ] 7873                    
+                    header:,"UserDataContainer": { 7895                        
+                        header:"UniqueID":1,"Values": [ 7918                            
+                            header:None { 7919                                
+                                data:"Name":"authoring_tool","Value":"3dsMax"
+                                 } 7960                            
+                            header:, { 7962                                
+                                data:"Name":"source","Value":"wavefront"
+                                 } 7998                            
+                            data:None                             ] 7999                        
+                        data:None
+                         } 8000                    
+                    data:None
+                     } 8001                
+                data:None
+                 } 8002            
+            data:None             ] 8003        
+        data:None
+         } 8004    
+    data:None
+     } 8005
